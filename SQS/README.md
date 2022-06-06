@@ -1,7 +1,7 @@
 # AWS SQS practice
 
 ## Goals:
-- create rewsource object,
+- create new source object,
 - send single message,
 - send multiple messages,
 - receive,
